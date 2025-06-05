@@ -22,6 +22,7 @@ A clean and modern task management application built with Next.js and TypeScript
 1. Clone the repository:
 
 git clone  https://github.com/christianeyob/frontend-task-manager.git
+
 cd frontend-task-manager
 
 
