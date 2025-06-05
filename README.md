@@ -21,8 +21,8 @@ A clean and modern task management application built with Next.js and TypeScript
 
 1. Clone the repository:
 
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone  
+cd frontend-task-manager
 
 
 2. Install dependencies:
